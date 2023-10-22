@@ -7,5 +7,4 @@ def print_float(number):
 def print_bool(bool):
     print(bool)
 
-
-"This is added from local rep"
+# "This is added from git hub"
